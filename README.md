@@ -164,6 +164,14 @@ http://localhost:8080/HireSense
 # 📸 Project Screenshots
 
 > Add screenshots of your application here.
+# Admin Dashboard
+<img width="1905" height="902" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/fc660dc2-4e26-4065-8dd7-bdb74bda574d" />
+
+# User Dashboard
+<img width="1680" height="697" alt="User Dashboard" src="https://github.com/user-attachments/assets/fc930525-3fe7-48a8-9d03-b1eec32225b4" />
+
+# Employer Dashboard
+<img width="1817" height="862" alt="Employer Dashboard" src="https://github.com/user-attachments/assets/22b8daf9-fd10-4339-bd28-953505489bdc" />
 
 Example:
 
